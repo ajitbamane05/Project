@@ -1,0 +1,10 @@
+.container{
+    align-items: center;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(250, 166, 166);
+}
+.container-item{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
